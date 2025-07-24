@@ -24,7 +24,8 @@
   },
   "dependencies": {
     "@postlight/parser": "^2.2.2",
-    "@types/aws-lambda": "^8.10.15"
+    "@types/aws-lambda": "^8.10.15",
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "@babel/core": "7.3.3",
